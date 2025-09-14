@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshmulev&label=Profile%20views&color=0e75b6&style=flat" alt="mshmulev" /> </p>
 
-- 🌱 I’m currently learning **Java, C#, Data Structures**
+- 🌱 I’m a current software engineering student**
 
 - 📫 How to reach me **shmulevichmoshe52@gmail.com**
 
